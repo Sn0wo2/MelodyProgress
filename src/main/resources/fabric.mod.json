@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "melodyprogress",
+  "version": "${version}",
+  "name": "MelodyProgress",
+  "description": "Customize the Melody Terminal party-chat progress message in SkyBlock Dungeon Floor 7",
+  "authors": [
+    "Me0wo",
+    "Sn0wo2"
+  ],
+  "license": "Apache-2.0",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      {
+        "value": "cc.me0wo.melodyprogress.MelodyProgress",
+        "adapter": "kotlin"
+      }
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.0",
+    "fabric-api": "*",
+    "fabric-language-kotlin": "*",
+    "minecraft": "~26.1.2",
+    "java": ">=25"
+  }
+}

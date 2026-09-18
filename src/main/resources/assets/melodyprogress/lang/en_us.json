@@ -1,0 +1,11 @@
+{
+  "melodyprogress.midnightconfig.title": "MelodyProgress",
+  "melodyprogress.midnightconfig.startMessage": "Start Message",
+  "melodyprogress.midnightconfig.startMessage.comment": "Sent to party chat when the Melody terminal opens. Blank = Skip",
+  "melodyprogress.midnightconfig.progressMessage14": "1/4 Message. Blank = Skip",
+  "melodyprogress.midnightconfig.progressMessage14.comment": "Sent at 1/4 progress. Blank = Skip",
+  "melodyprogress.midnightconfig.progressMessage24": "2/4 Message",
+  "melodyprogress.midnightconfig.progressMessage24.comment": "Sent at 2/4 progress. Blank = Skip",
+  "melodyprogress.midnightconfig.progressMessage34": "3/4 Message",
+  "melodyprogress.midnightconfig.progressMessage34.comment": "Sent at 3/4 progress. Blank = Skip"
+}

@@ -1,0 +1,11 @@
+{
+  "melodyprogress.midnightconfig.title": "MelodyProgress",
+  "melodyprogress.midnightconfig.startMessage": "打开 Melody Terminal 的消息",
+  "melodyprogress.midnightconfig.startMessage.comment": "Melody Terminal 打开时发送到 Party Chat. 留空 = 跳过",
+  "melodyprogress.midnightconfig.progressMessage14": "1/4 消息",
+  "melodyprogress.midnightconfig.progressMessage14.comment": "进度到 1/4 时发送. 留空 = 跳过",
+  "melodyprogress.midnightconfig.progressMessage24": "2/4 消息",
+  "melodyprogress.midnightconfig.progressMessage24.comment": "进度到 2/4 时发送. 留空 = 跳过",
+  "melodyprogress.midnightconfig.progressMessage34": "3/4 消息",
+  "melodyprogress.midnightconfig.progressMessage34.comment": "进度到 3/4 时发送. 留空 = 跳过"
+}
